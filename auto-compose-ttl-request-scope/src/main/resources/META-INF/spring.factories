@@ -1,0 +1,2 @@
+org.springframework.boot.autoconfigure.EnableAutoConfiguration=\
+  com.trip.flight.auto.compose.ttl.request.scope.AsyncRequestScopeBeanFactoryPostProcessor
