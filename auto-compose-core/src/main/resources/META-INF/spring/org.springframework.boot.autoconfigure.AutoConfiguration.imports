@@ -1,0 +1,2 @@
+com.zhuo.auto.compose.core.AutoComposeConfiguration
+com.zhuo.auto.compose.core.dependency.AutoComposableDependenciesCacheInitializeListener

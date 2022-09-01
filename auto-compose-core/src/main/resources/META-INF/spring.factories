@@ -1,6 +1,5 @@
 org.springframework.boot.autoconfigure.EnableAutoConfiguration=\
-  com.trip.flight.auto.compose.core.AutoComposableUtils
-
+  com.zhuo.auto.compose.core.AutoComposeConfiguration
 
 org.springframework.context.ApplicationListener=\
-    com.trip.flight.auto.compose.core.dependency.AutoComposableDependenciesCacheInitializeListener
+    com.zhuo.auto.compose.core.dependency.AutoComposableDependenciesCacheInitializeListener
