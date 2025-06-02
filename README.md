@@ -50,7 +50,7 @@ AutoCompose核心特点是：
 
 ```
 <dependency>
-    <groupId>io.github.heartcraft</groupId>
+    <groupId>io.github.zhuo</groupId>
     <artifactId>auto-compose-core</artifactId>
     <version>1.0.0</version>
 </dependency>

@@ -8,7 +8,7 @@
         <module>auto-compose-example</module>
     </modules>
 
-    <groupId>io.github.heartcraft</groupId>
+    <groupId>io.github.zhuo</groupId>
     <artifactId>auto-compose</artifactId>
     <version>1.0.0</version>
     <name>auto-compose</name>
